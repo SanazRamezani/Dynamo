@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamo Task</string>
+    <string name="error_generic">An error has occurred. Please try again.</string>
+</resources>
